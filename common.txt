@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 Line by anagha
-=======
-Line by anagha
->>>>>>> Stashed changes
